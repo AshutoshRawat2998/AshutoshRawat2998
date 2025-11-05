@@ -33,7 +33,7 @@
 
 [Movie Recommendation System](https://github.com/AshutoshRawat2998/Movie-Recommendations)
 
- ## Tech Stack -Python, Scikit-learn (TFIDF,Cosine Similarity), Stream lit, Pickle, Seaborn 
+ Tech Stack -Python, Scikit-learn (TFIDF,Cosine Similarity), Stream lit, Pickle, Seaborn 
  
 • Applied TF-IDF Vectorization, Lemmatization, and Cosine Similarity to generate accurate 
 recommendations
@@ -43,7 +43,7 @@ recommendations
 
 [Diwali Sales Analysis](https://github.com/AshutoshRawat2998/Diwali-Sales-Analysis)
 
- ## Tech Stack - Python, NumPy, Pandas, seaborn 
+ Tech Stack - Python, NumPy, Pandas, seaborn 
  
 • Identified top-performing product categories and high-spending customer segments.
 
@@ -52,7 +52,7 @@ recommendations
 
 [Movie Sentiment Analyzer](https://github.com/AshutoshRawat2998/Movie-Sentiment-Analyzer)
 
- ## Tech Stack - Python, Scikit-learn, Pandas, NumPy, Seaborn
+ Tech Stack - Python, Scikit-learn, Pandas, NumPy, Seaborn
  
 • Implemented TF-IDF, Word2Vec, Random Forest, and LSTM models for feature-rich text 
 classification.
