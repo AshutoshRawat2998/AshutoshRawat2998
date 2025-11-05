@@ -2,10 +2,15 @@
 💡 Data Analyst | SQL | Python | Power BI | Machine Learning | Deep Learning
 
 🧑‍💼 About Me
+
   🎯 Passionate about turning data into insights and actionable solutions.
+  
   📊 Skilled in Python, SQL, Power BI, Machine Learning, Deep Learning and Excel.
+  
   🧠 Currently pursuing Data Science at Masai School (Feb 2025 – Dec 2025, Bengaluru, India).
+  
   🎓 B.Tech in Computer Science, Amity University, Madhya Pradesh (2018 – 2022, CGPA: 7.8 / 10).
+  
   💬 Love solving analytical problems, exploring data trends, and creating data-driven dashboards.
 
 Technical Skills
