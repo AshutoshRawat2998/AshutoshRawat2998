@@ -1,7 +1,7 @@
 ## Hi, I'm Ashutosh Rawat
 
 💡 Data Analyst | SQL | Python | Power BI | Machine Learning | Deep Learning
-####
+##
 
 🧑‍💼 About Me
 
@@ -15,6 +15,8 @@
   
   💬 Love solving analytical problems, exploring data trends, and creating data-driven dashboards.
 
+##
+
 Technical Skills
  
  Languages & Libraries: Python, Django, NumPy, Pandas, Seaborn, NLTK
@@ -25,7 +27,7 @@ Technical Skills
  
  Other Skills: Data Cleaning, Data Visualization, ETL, Data Modeling
  
-
+##
 
 🚀 Projects
 [Movie Recommendation System](https://github.com/AshutoshRawat2998/Movie-Recommendations)
@@ -61,6 +63,7 @@ classification.
 
 • Achieved high predictive performance and modularized code for scalable experimentation.
 
+##
 
 📫 Connect with Me
 
