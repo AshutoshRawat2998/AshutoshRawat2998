@@ -1,7 +1,6 @@
 ## � Hi, I'm Ashutosh Rawat �
 💡 Data Analyst | SQL | Python | Power BI | Machine Learning | Deep Learning
-<!--
-**AshutoshRawat2998/AshutoshRawat2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 🧑‍💼 About Me
   🎯 Passionate about turning data into insights and actionable solutions.
   📊 Skilled in Python, SQL, Power BI, Machine Learning, Deep Learning and Excel.
