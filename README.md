@@ -74,5 +74,18 @@ classification.
 
 
 
+## ⚡ GitHub Stats
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshRawat2998&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshRawat2998&layout=compact&theme=radical)
+
+## 
+
+⭐ "Exploring the story behind every number."
+
+
+
+
+
 
 
