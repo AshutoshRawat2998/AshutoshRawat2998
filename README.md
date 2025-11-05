@@ -33,20 +33,17 @@
 
 [Movie Recommendation System](https://github.com/AshutoshRawat2998/Movie-Recommendations)
 
- Tech Stack -Python, Scikit-learn (TFIDF,Cosine Similarity), Stream lit, Pickle, Seaborn 
+ ## Tech Stack -Python, Scikit-learn (TFIDF,Cosine Similarity), Stream lit, Pickle, Seaborn 
  
 • Applied TF-IDF Vectorization, Lemmatization, and Cosine Similarity to generate accurate 
 recommendations
 
 • Designed an interactive Stream lit web app for seamless user interaction and movie search functionality
 
-• Optimized model performance and reduced response time by 25% through efficient data preprocessing and 
-caching techniques.
-
 
 [Diwali Sales Analysis](https://github.com/AshutoshRawat2998/Diwali-Sales-Analysis)
 
- Tech Stack - Python, NumPy, Pandas, seaborn 
+ ## Tech Stack - Python, NumPy, Pandas, seaborn 
  
 • Identified top-performing product categories and high-spending customer segments.
 
@@ -55,15 +52,12 @@ caching techniques.
 
 [Movie Sentiment Analyzer](https://github.com/AshutoshRawat2998/Movie-Sentiment-Analyzer)
 
- Tech Stack - Python, Scikit-learn, Pandas, NumPy, Seaborn
+ ## Tech Stack - Python, Scikit-learn, Pandas, NumPy, Seaborn
  
 • Implemented TF-IDF, Word2Vec, Random Forest, and LSTM models for feature-rich text 
 classification.
 
 • Applied advanced preprocessing and regularization to enhance model accuracy and generalization.
-
-• Achieved high predictive performance and modularized code for scalable experimentation.
-
 
 
 ## 📫 Connect with Me
