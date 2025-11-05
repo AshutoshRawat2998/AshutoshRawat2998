@@ -3,7 +3,7 @@
 💡 Data Analyst | SQL | Python | Power BI | Machine Learning | Deep Learning
 ##
 
-##🧑‍💼 About Me
+## 🧑‍💼 About Me
 
   🎯 Passionate about turning data into insights and actionable solutions.
   
@@ -17,7 +17,7 @@
 
 ##
 
-##Technical Skills
+## Technical Skills
  
  Languages & Libraries: Python, Django, NumPy, Pandas, Seaborn, NLTK
  
@@ -29,7 +29,7 @@
  
 ##
 
-##🚀 Projects
+## 🚀 Projects
 
 [Movie Recommendation System](https://github.com/AshutoshRawat2998/Movie-Recommendations)
 
@@ -66,7 +66,7 @@ classification.
 
 ##
 
-##📫 Connect with Me
+## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-rawat-507428208/)
