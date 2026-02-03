@@ -44,16 +44,16 @@ recommendations
 • Designed an interactive Stream lit web app for seamless user interaction and movie search functionality
 
 
-[Diwali Sales Analysis](https://github.com/AshutoshRawat2998/Diwali-Sales-Analysis)
+[Blinkit_dashboard](https://github.com/AshutoshRawat2998/Diwali-Sales-Analysis)
 
- Tech Stack - Python, NumPy, Pandas, seaborn 
+ Tech Stack - Power BI, DAX, EXCEL, SQL 
  
-• Identified top-performing product categories and high-spending customer segments.
+• KPI Tracking: Real-time metrics for total sales, average sales ($141), and customer ratings.
 
-• Derived insights to support targeted marketing and sales strategy optimization.
+• Sales Analysis: Product categorization by fat content and item type with detailed revenue breakdown
 
 
-[Movie Sentiment Analyzer](https://github.com/AshutoshRawat2998/Movie-Sentiment-Analyzer)
+[Movie Sentiment Analyzer](https://github.com/AshutoshRawat2998/Blinkit_Dashboard)
 
  Tech Stack - Python, Scikit-learn, Pandas, NumPy, Seaborn
  
